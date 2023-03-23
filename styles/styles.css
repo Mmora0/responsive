@@ -1,6 +1,7 @@
 body{
     font-family:Georgia, 'Times New Roman', Times, serif;
     margin: 0;
+    background-color: bisque;
 }
 
 header{
@@ -50,4 +51,21 @@ nav a:hover{
     nav{
         padding: 10px 0px;
     }
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-line: underline;
+    text-decoration-color: black;
+    font-size: xx-large;
+}
+
+p{
+    text-align: center;
+    color: red;
+    font-family:monospace;
+    text-decoration-line: line-through;
+    text-decoration-color: white;
 }
